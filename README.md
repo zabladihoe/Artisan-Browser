@@ -53,4 +53,3 @@ On every push to `main`, GitHub Actions builds all 4 variants and uploads them a
 ## License
 
 GPLv3
- 
